@@ -56,12 +56,7 @@ See [SETUP.md](SETUP.md) for detailed customization guide including:
 
 ## 📧 Contact Information
 
-Update these across the site:
-- Email: mehra@mehrastudio.com
-- Instagram: @mehrastudio21
-- LinkedIn: mehra-irfan
-- Behance: mehrairfan
-- Facebook: mehra.irfan.14
+
 
 ---
 
